@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Tmp\\Universidad\\RepositorioProyectosGit\\PAGrupo2SI2020\\Prueba3\\pro1\\pro1.csproj": {}
+    "C:\\Tmp\\Universidad\\RepositorioProyectosGit\\PAGrupo2SI2020\\13marzo2020_1\\13marzo2020_1.csproj": {}
   },
   "projects": {
-    "C:\\Tmp\\Universidad\\RepositorioProyectosGit\\PAGrupo2SI2020\\Prueba3\\pro1\\pro1.csproj": {
+    "C:\\Tmp\\Universidad\\RepositorioProyectosGit\\PAGrupo2SI2020\\13marzo2020_1\\13marzo2020_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Tmp\\Universidad\\RepositorioProyectosGit\\PAGrupo2SI2020\\Prueba3\\pro1\\pro1.csproj",
-        "projectName": "pro1",
-        "projectPath": "C:\\Tmp\\Universidad\\RepositorioProyectosGit\\PAGrupo2SI2020\\Prueba3\\pro1\\pro1.csproj",
+        "projectUniqueName": "C:\\Tmp\\Universidad\\RepositorioProyectosGit\\PAGrupo2SI2020\\13marzo2020_1\\13marzo2020_1.csproj",
+        "projectName": "13marzo2020_1",
+        "projectPath": "C:\\Tmp\\Universidad\\RepositorioProyectosGit\\PAGrupo2SI2020\\13marzo2020_1\\13marzo2020_1.csproj",
         "packagesPath": "C:\\Users\\onivia\\.nuget\\packages\\",
-        "outputPath": "C:\\Tmp\\Universidad\\RepositorioProyectosGit\\PAGrupo2SI2020\\Prueba3\\pro1\\obj\\",
+        "outputPath": "C:\\Tmp\\Universidad\\RepositorioProyectosGit\\PAGrupo2SI2020\\13marzo2020_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
