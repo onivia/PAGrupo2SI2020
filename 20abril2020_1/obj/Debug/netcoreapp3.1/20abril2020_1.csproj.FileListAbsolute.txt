@@ -1,0 +1,13 @@
+C:\Tmp\Universidad\RepositorioProyectosGit\PAGrupo2SI2020\20abril2020_1\obj\Debug\netcoreapp3.1\20abril2020_1.csprojAssemblyReference.cache
+C:\Tmp\Universidad\RepositorioProyectosGit\PAGrupo2SI2020\20abril2020_1\obj\Debug\netcoreapp3.1\20abril2020_1.csproj.CoreCompileInputs.cache
+C:\Tmp\Universidad\RepositorioProyectosGit\PAGrupo2SI2020\20abril2020_1\obj\Debug\netcoreapp3.1\20abril2020_1.AssemblyInfoInputs.cache
+C:\Tmp\Universidad\RepositorioProyectosGit\PAGrupo2SI2020\20abril2020_1\obj\Debug\netcoreapp3.1\20abril2020_1.AssemblyInfo.cs
+C:\Tmp\Universidad\RepositorioProyectosGit\PAGrupo2SI2020\20abril2020_1\bin\Debug\netcoreapp3.1\20abril2020_1.exe
+C:\Tmp\Universidad\RepositorioProyectosGit\PAGrupo2SI2020\20abril2020_1\bin\Debug\netcoreapp3.1\20abril2020_1.deps.json
+C:\Tmp\Universidad\RepositorioProyectosGit\PAGrupo2SI2020\20abril2020_1\bin\Debug\netcoreapp3.1\20abril2020_1.runtimeconfig.json
+C:\Tmp\Universidad\RepositorioProyectosGit\PAGrupo2SI2020\20abril2020_1\bin\Debug\netcoreapp3.1\20abril2020_1.runtimeconfig.dev.json
+C:\Tmp\Universidad\RepositorioProyectosGit\PAGrupo2SI2020\20abril2020_1\bin\Debug\netcoreapp3.1\20abril2020_1.dll
+C:\Tmp\Universidad\RepositorioProyectosGit\PAGrupo2SI2020\20abril2020_1\bin\Debug\netcoreapp3.1\20abril2020_1.pdb
+C:\Tmp\Universidad\RepositorioProyectosGit\PAGrupo2SI2020\20abril2020_1\obj\Debug\netcoreapp3.1\20abril2020_1.dll
+C:\Tmp\Universidad\RepositorioProyectosGit\PAGrupo2SI2020\20abril2020_1\obj\Debug\netcoreapp3.1\20abril2020_1.pdb
+C:\Tmp\Universidad\RepositorioProyectosGit\PAGrupo2SI2020\20abril2020_1\obj\Debug\netcoreapp3.1\20abril2020_1.genruntimeconfig.cache
