@@ -113,5 +113,17 @@ namespace _20abril2020_1
             }
             tamano += 1; //tamano++
         }
+    
+        public void Actualizar(int nuevoDato, int posi) {
+            //validar q la lista NO este vacia
+            //posi>=0 y posi<tamano
+            //posicionar a un nodoAux en el nodo en la posicion 'posi'.
+            //nodoAux arranca desde 'p'
+            //Recorrer la lista con nodoAux, nodoAux = nodoAux.sgte;
+        }
+
+        public void Ordernar(bool esAsc) { //true-ascendente, false-descendente
+
+        }
     }
 }
