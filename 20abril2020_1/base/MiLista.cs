@@ -120,10 +120,55 @@ namespace _20abril2020_1
             //posicionar a un nodoAux en el nodo en la posicion 'posi'.
             //nodoAux arranca desde 'p'
             //Recorrer la lista con nodoAux, nodoAux = nodoAux.sgte;
+            Nodo nodoAux = null;
+            int i = 0;
+
+            if(!estaVacia() && posi>=0 && posi<tamano) {
+                nodoAux = p;
+                i = 0;
+                while(i < tamano) {
+                    if(i==posi) { //encontramos el nodo a actualizar
+                        nodoAux.dato = nuevoDato;
+                        break;
+                    }
+                    nodoAux = nodoAux.sgte;
+                    i += 1; //i++
+                }
+            } else {
+                throw new Exception($"posi: {posi} no valido para el tamano: {tamano}");
+            }
         }
 
-        public void Ordernar(bool esAsc) { //true-ascendente, false-descendente
+        public void Ordernar(bool esAsc = true) { //true-ascendente, false-descendente
+            Nodo nodoAux = null;
+            bool huboAlMenosUnIntercambio = false;
+            int aux = 0;
 
+            for(int j=0;j<tamano;j++) { //determina las corridas
+                nodoAux = p;
+                huboAlMenosUnIntercambio = false;
+                for(int i=0;i<(tamano-1);i++) { //se hacen las comparaciones nodo a nodo
+                    if(esAsc) { //esAsc==true //caso x Asc
+                        if(nodoAux.dato > nodoAux.sgte.dato) { //intercambio
+                            aux = nodoAux.sgte.dato; //protegimos el 3
+                            nodoAux.sgte.dato = nodoAux.dato; //5 para donde esta el 3
+                            nodoAux.dato = aux; //3 para donde esta el 5
+                            huboAlMenosUnIntercambio = true;
+                        }
+                    }
+                    else { //caso x Desc
+                        if(nodoAux.dato < nodoAux.sgte.dato) { //intercambio
+                            aux = nodoAux.sgte.dato; //protegimos el 3
+                            nodoAux.sgte.dato = nodoAux.dato; //5 para donde esta el 3
+                            nodoAux.dato = aux; //3 para donde esta el 5
+                            huboAlMenosUnIntercambio = true;
+                        }                        
+                    }
+                    nodoAux = nodoAux.sgte;
+                }
+                if(!huboAlMenosUnIntercambio)
+                    break;
+            }
         }
     }
 }
