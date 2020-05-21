@@ -1,0 +1,12 @@
+/Users/mac/personales/universidad/repositorios/PAGrupo2SI2020/20mayo2020_1e/bin/Debug/netcoreapp3.1/20mayo2020_1e.deps.json
+/Users/mac/personales/universidad/repositorios/PAGrupo2SI2020/20mayo2020_1e/bin/Debug/netcoreapp3.1/20mayo2020_1e.runtimeconfig.json
+/Users/mac/personales/universidad/repositorios/PAGrupo2SI2020/20mayo2020_1e/bin/Debug/netcoreapp3.1/20mayo2020_1e.runtimeconfig.dev.json
+/Users/mac/personales/universidad/repositorios/PAGrupo2SI2020/20mayo2020_1e/bin/Debug/netcoreapp3.1/20mayo2020_1e.dll
+/Users/mac/personales/universidad/repositorios/PAGrupo2SI2020/20mayo2020_1e/bin/Debug/netcoreapp3.1/20mayo2020_1e.pdb
+/Users/mac/personales/universidad/repositorios/PAGrupo2SI2020/20mayo2020_1e/obj/Debug/netcoreapp3.1/20mayo2020_1e.csprojAssemblyReference.cache
+/Users/mac/personales/universidad/repositorios/PAGrupo2SI2020/20mayo2020_1e/obj/Debug/netcoreapp3.1/20mayo2020_1e.csproj.CoreCompileInputs.cache
+/Users/mac/personales/universidad/repositorios/PAGrupo2SI2020/20mayo2020_1e/obj/Debug/netcoreapp3.1/20mayo2020_1e.AssemblyInfoInputs.cache
+/Users/mac/personales/universidad/repositorios/PAGrupo2SI2020/20mayo2020_1e/obj/Debug/netcoreapp3.1/20mayo2020_1e.AssemblyInfo.cs
+/Users/mac/personales/universidad/repositorios/PAGrupo2SI2020/20mayo2020_1e/obj/Debug/netcoreapp3.1/20mayo2020_1e.dll
+/Users/mac/personales/universidad/repositorios/PAGrupo2SI2020/20mayo2020_1e/obj/Debug/netcoreapp3.1/20mayo2020_1e.pdb
+/Users/mac/personales/universidad/repositorios/PAGrupo2SI2020/20mayo2020_1e/obj/Debug/netcoreapp3.1/20mayo2020_1e.genruntimeconfig.cache
