@@ -1,0 +1,13 @@
+C:\Trabajo\Universidad\Repositorios\PAGrupo2SI2020\29mayo2020_1\bin\Debug\netcoreapp3.1\29mayo2020_1.exe
+C:\Trabajo\Universidad\Repositorios\PAGrupo2SI2020\29mayo2020_1\bin\Debug\netcoreapp3.1\29mayo2020_1.deps.json
+C:\Trabajo\Universidad\Repositorios\PAGrupo2SI2020\29mayo2020_1\bin\Debug\netcoreapp3.1\29mayo2020_1.runtimeconfig.json
+C:\Trabajo\Universidad\Repositorios\PAGrupo2SI2020\29mayo2020_1\bin\Debug\netcoreapp3.1\29mayo2020_1.runtimeconfig.dev.json
+C:\Trabajo\Universidad\Repositorios\PAGrupo2SI2020\29mayo2020_1\bin\Debug\netcoreapp3.1\29mayo2020_1.dll
+C:\Trabajo\Universidad\Repositorios\PAGrupo2SI2020\29mayo2020_1\bin\Debug\netcoreapp3.1\29mayo2020_1.pdb
+C:\Trabajo\Universidad\Repositorios\PAGrupo2SI2020\29mayo2020_1\obj\Debug\netcoreapp3.1\29mayo2020_1.csprojAssemblyReference.cache
+C:\Trabajo\Universidad\Repositorios\PAGrupo2SI2020\29mayo2020_1\obj\Debug\netcoreapp3.1\29mayo2020_1.AssemblyInfoInputs.cache
+C:\Trabajo\Universidad\Repositorios\PAGrupo2SI2020\29mayo2020_1\obj\Debug\netcoreapp3.1\29mayo2020_1.AssemblyInfo.cs
+C:\Trabajo\Universidad\Repositorios\PAGrupo2SI2020\29mayo2020_1\obj\Debug\netcoreapp3.1\29mayo2020_1.csproj.CoreCompileInputs.cache
+C:\Trabajo\Universidad\Repositorios\PAGrupo2SI2020\29mayo2020_1\obj\Debug\netcoreapp3.1\29mayo2020_1.dll
+C:\Trabajo\Universidad\Repositorios\PAGrupo2SI2020\29mayo2020_1\obj\Debug\netcoreapp3.1\29mayo2020_1.pdb
+C:\Trabajo\Universidad\Repositorios\PAGrupo2SI2020\29mayo2020_1\obj\Debug\netcoreapp3.1\29mayo2020_1.genruntimeconfig.cache
